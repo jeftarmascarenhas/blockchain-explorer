@@ -18,7 +18,7 @@
 .box {
   border: 1px solid rgb(var(--callout-border-rgb));
   border-radius: var(--border-radius);
-  box-shadow: 0px 0px 3px var(--secondary-glow);
+  box-shadow: 0px 2px 12px 2px rgb(var(--secondary-glow));
   background-color: #fff;
 }
 

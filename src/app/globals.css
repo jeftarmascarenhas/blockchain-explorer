@@ -16,12 +16,9 @@
     #0071ff33 160deg,
     transparent 360deg
   );
-  --secondary-glow: radial-gradient(
-    rgba(255, 255, 255, 1),
-    rgba(255, 255, 255, 0)
-  );
+  --secondary-glow: 231, 230, 230;
 
-  --callout-border-rgb: 172, 175, 176;
+  --callout-border-rgb: 238, 238, 238;
 
   --primary: rgb(130, 71, 229);
 }
