@@ -11,7 +11,7 @@
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 2rem;
 }
 
@@ -50,4 +50,10 @@
   margin-top: 1rem;
   font-weight: 400;
   text-align: center;
+}
+
+.tag {
+  background-color: rgba(var(--secondary-glow), 0.8);
+  padding: 0.5rem;
+  border-radius: calc(var(--border-radius) * 2);
 }
