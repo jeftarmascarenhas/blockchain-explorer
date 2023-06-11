@@ -1,8 +1,11 @@
 <div align="center">
 <h1 >Blockchain Explorer</h1>
 <p>Explorer to any EVM blockchain compatible</p>
+<p>There are two branchs main and full-example, use the branch main to do the tutorial on <a href="https://youtube.com/@nftchoose">YouTube</a></p>
 <p>See how I did this blockchain explorer - <a href="#">Click here</a></p>
 </div>
+
+<img src="./screen-shot.png" />
 
 ## Getting Started
 
