@@ -5,6 +5,8 @@
 <p>See how I did this blockchain explorer - <a href="#">Click here</a></p>
 </div>
 
+<img src="./screen-shot.png" />
+
 ## Getting Started
 
 First, run the development server:
