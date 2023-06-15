@@ -45,7 +45,7 @@ export default async function Home() {
 
   return (
     <main className={styles.main}>
-      <h1 className={styles.logo}>Blockchain Explore</h1>
+      <h1 className={styles.logo}>Blockchain Explorer</h1>
       <div className={styles.grid}>
         <div className={styles.box}>
           <h3 className={styles.boxTitle}>Latest Blocks ({blocks.length})</h3>
