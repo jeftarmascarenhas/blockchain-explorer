@@ -44,7 +44,7 @@ export default async function Home() {
       <h1 className={styles.logo}>Blockchain Explore</h1>
       <div className={styles.grid}>
         <div className={styles.box}>
-          <h3 className={styles.boxTitle}>Last Blocks ({blocks.length})</h3>
+          <h3 className={styles.boxTitle}>Latest Blocks ({blocks.length})</h3>
           <ul>
             {blocks?.map((block) => (
               <li key={block?.hash}>
@@ -80,7 +80,7 @@ export default async function Home() {
         </div>
         <div className={styles.box}>
           <h3 className={styles.boxTitle}>
-            Last Transactions ({transactions.length})
+            Latest Transactions ({transactions.length})
           </h3>
           <ul>
             {transactions?.map((tx) => (
